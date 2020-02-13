@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Sandwich Order App</string>
     <string name="sendOrder">Send Order</string>
+    <string-array name="meat">
+        <item>Pepperoni</item>
+        <item>Turkey</item>
+        <Item>Roast Beef</Item>
+        <Item>Pastrami</Item>
+    </string-array>
 </resources>
