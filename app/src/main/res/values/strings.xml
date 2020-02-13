@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sandwich Order App</string>
+    <string name="sendOrder">Send Order</string>
+</resources>
